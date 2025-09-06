@@ -13,10 +13,6 @@ CCTV-10
 CCTV-11
 CCTV-12
 CCTV-13
-CCTV-14
-CCTV-15
-CCTV-16
-CCTV-17
 
 📡卫视频道,#genre#
 广东卫视
@@ -52,3 +48,5 @@ CCTV-17
 西藏卫视
 新疆卫视
 云南卫视
+辽宁都市
+辽宁体育
