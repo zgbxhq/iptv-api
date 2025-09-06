@@ -10,5 +10,3 @@ https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv6.txt
 https://raw.githubusercontent.com/vbskycn/iptv/master/tv/iptv4.txt
 https://live.hacks.tools/tv/iptv6.txt
 https://live.hacks.tools/tv/iptv4.txt
-https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/%E8%BE%BD%E5%AE%81%E8%81%94%E9%80%9A%E7%BB%84%E6%92%AD.txt
-https://raw.githubusercontent.com/wcb1969/iptv/refs/heads/main/%E8%BE%BD%E5%AE%81%E8%81%94%E9%80%9A221Rtsp.txt
